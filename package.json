@@ -1,0 +1,12 @@
+{
+  "name": "account",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ArthurSimplicio/Account.git",
+  "author": "ArthurSimplicio <arthurpark20@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^12.2.0"
+  }
+}
